@@ -1,7 +1,7 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-app.js";
 import { getDatabase, ref, get, child } from "https://www.gstatic.com/firebasejs/9.22.1/firebase-database.js";
 
-// 🔐 Ta config Firebase ici (pas ta clé privée !)
+// 🔐 Ton projet Firebase
 const firebaseConfig = {
   databaseURL: "https://projecttogether-26e40-default-rtdb.europe-west1.firebasedatabase.app"
 };
