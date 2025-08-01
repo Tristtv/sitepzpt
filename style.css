@@ -33,3 +33,13 @@ li {
   display: flex;
   justify-content: space-between;
 }
+.logo-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.logo {
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+}
